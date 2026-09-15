@@ -2,4 +2,4 @@
 
 The systing's blog.
 
-欢迎您的访问，这是Systing的博客空间。
+欢迎访问，这里是 Systing 的博客空间。
